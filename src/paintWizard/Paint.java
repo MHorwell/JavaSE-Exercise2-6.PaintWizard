@@ -1,6 +1,5 @@
 package paintWizard;
 
-import java.util.List;
 
 public class Paint {
 	
